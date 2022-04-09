@@ -2,7 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/nike4613/ModSaber-MetadataFileSchema/master/Schema.json",
     "author": "Kyle1413",
     "description": "Adds additional modifiers to the game, see readme for details.",
-    "gameVersion": "1.21.0",
+    "gameVersion": "1.15.0",
     "id": "GameplayModifiersPlus",
     "name": "GameplayModifiersPlus",
     "version": "1.23.1",
